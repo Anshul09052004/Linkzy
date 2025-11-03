@@ -1,9 +1,8 @@
-function Login() {
+function Feed() {
     
 
     return (
         <></>
     );
 }
-
-export default Login
+export default Feed;
